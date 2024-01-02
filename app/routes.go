@@ -1,7 +1,7 @@
 package app
 
 import (
-	"github.com/miftcahul27/gotoko/controllers" // Ganti dengan path yang sesuai
+	"github.com/miftcahul27/gotoko/controller" // Ganti dengan path yang sesuai
 )
 
 func (server *Server) initializeRoutes() {
